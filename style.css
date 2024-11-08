@@ -1,0 +1,23 @@
+body
+{
+    background: #fde79b;
+    background: linear-gradient(#fde79b);
+    text-align: center;
+    top: 215px;
+    position: relative;
+}
+
+#txt1
+{
+    font-family:Littlejoodles;
+    font-size: 70px;
+}
+
+#txt2
+{
+    font-family:untlang;
+    font-size: 25px;
+    position: relative;
+    top: -80px;
+
+}
